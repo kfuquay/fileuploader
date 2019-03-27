@@ -1,0 +1,10 @@
+.ControlBar {
+    display: flex;
+    flex-direction: row;
+    align-items: space-between;
+    justify-content: baseline;
+}
+
+.ControlBar-btn {
+    margin: 3px;
+}

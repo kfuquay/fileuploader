@@ -1,0 +1,7 @@
+.FilterOptions {
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}

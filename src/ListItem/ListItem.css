@@ -1,0 +1,42 @@
+.ListItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 5px;
+}
+
+.ListItem-icon {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.ListItem-content {
+    font-size: 16px;
+    font-family: monospace;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.ListItem-heading {
+    margin: 5px;
+}
+
+.ListItem-size {
+    color: green;
+    margin: 5px;
+}
+
+.ListItem-actions {
+    border: 1px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 200px;
+}
+
